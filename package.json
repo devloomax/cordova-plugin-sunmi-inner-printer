@@ -9,12 +9,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/devloomax/cordova-plugin-sunmi-inner-printer-v2-v2pro.git"
+    "url": "git+https://github.com/devloomax/cordova-plugin-sunmi-inner-printer-v2-v2pro.git"
   },
   "author": {
-    "name": "rpk"
+    "name": "Maximiliaan Devloo"
   },
-  "license": "DBAD",
+  "license": "Apache 2.0",
   "engines": {
     "cordovaDependencies": {
       "7.1.0": {
