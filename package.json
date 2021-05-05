@@ -1,15 +1,15 @@
 {
-  "name": "cordova-plugin-sunmi-inner-printer-v2-v2pro",
+  "name": "cordova-plugin-sunmi-inner-printer",
   "description": "Cordova/Ionic Plugin for Sunmi V2, V2 Pro Printer",
   "cordova": {
-    "id": "cordova-plugin-sunmi-inner-printer-v2-v2pro",
+    "id": "cordova-plugin-sunmi-inner-printer",
     "platforms": [
       "android"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/devloomax/cordova-plugin-sunmi-inner-printer-v2-v2pro.git"
+    "url": "git+https://github.com/devloomax/cordova-plugin-sunmi-inner-printer.git"
   },
   "author": {
     "name": "Maximiliaan Devloo"
