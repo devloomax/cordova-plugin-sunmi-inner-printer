@@ -1,26 +1,39 @@
 {
   "name": "cordova-plugin-sunmi-inner-printer",
-  "description": "Cordova/Ionic Plugin for Sunmi V2, V2 Pro Printer",
+  "version": "1.0.0",
+  "description": "MDware Sunmi v2 Cordova Plugin",
   "cordova": {
     "id": "cordova-plugin-sunmi-inner-printer",
     "platforms": [
       "android"
     ]
   },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/devloomax/cordova-plugin-sunmi-inner-printer.git"
   },
-  "author": {
-    "name": "Maximiliaan Devloo"
+  "author": "Maximiliaan Devloo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devloomax/cordova-plugin-sunmi-inner-printer/issues"
   },
-  "license": "Apache 2.0",
-  "engines": {
-    "cordovaDependencies": {
-      "7.1.0": {
-        "cordova-android": ">=7.1.0"
-      }
+  "homepage": "https://github.com/devloomax/cordova-plugin-sunmi-inner-printer#readme",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    },
+    {
+      "name": "android-sdk",
+      "version": ">=19"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=8.0"
     }
-  },
-  "version": "1.0"
+  ]
 }
